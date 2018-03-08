@@ -1,0 +1,133 @@
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.exe
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.pdb
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.baml
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\obj\x86\Debug\App.g.cs
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1_MarkupCompile.cache
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.g.resources
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csproj.GenerateResource.Cache
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.exe
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.pdb
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.Properties.Resources.resources
+C:\Users\K16\Documents\Visual Studio 2010\Projects\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.UserControl1.resources
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.exe
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.pdb
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.exe
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.pdb
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.baml
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\obj\x86\Debug\App.g.cs
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1_MarkupCompile.cache
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.g.resources
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.Properties.Resources.resources
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.UserControl1.resources
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csproj.GenerateResource.Cache
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\DynamicDataDisplay.resources.dll
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\DynamicDataDisplay.xml
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\DynamicDataDisplay.Coastline.dll
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\DynamicDataDisplay.Coastline.xml
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\DynamicDataDisplay.Controls.dll
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\LineSample.exe
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\DynamicDataDisplay.Controls.xml
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\DynamicDataDisplay.Maps.xml
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\Visiblox.Charts.dll
+C:\Users\Влад\Desktop\Vlad\Harmonic\Harmonic_1\Harmonic_1\bin\Debug\Visiblox.Charts.xml
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.exe
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.pdb
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.exe
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.pdb
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\obj\x86\Debug\App.g.cs
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1_MarkupCompile.cache
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.g.resources
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.Properties.Resources.resources
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.UserControl1.resources
+C:\Users\User\Downloads\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.exe
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.pdb
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1_MarkupCompile.cache
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.g.resources
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.Properties.Resources.resources
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.UserControl1.resources
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.exe
+C:\Users\User\Desktop\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.pdb
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.exe
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.pdb
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.exe
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.pdb
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.baml
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\App.g.cs
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1_MarkupCompile.cache
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.g.resources
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.Properties.Resources.resources
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.UserControl1.resources
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csproj.GenerateResource.Cache
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\bin\Debug\FirmataVB.pdb
+C:\Users\Влад\Desktop\Harmonic_1\Harmonic_1\bin\Debug\FirmataVB.xml
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.exe
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.pdb
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.exe
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.pdb
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\bin\Debug\FirmataVB.pdb
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\bin\Debug\FirmataVB.xml
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.baml
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\obj\x86\Debug\App.g.cs
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1_MarkupCompile.cache
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.g.resources
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.Properties.Resources.resources
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.UserControl1.resources
+C:\Users\Влад\Desktop\Harm\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csproj.GenerateResource.Cache
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.exe
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.pdb
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.exe
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.pdb
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\App.g.cs
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1_MarkupCompile.cache
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.g.resources
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.Properties.Resources.resources
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.UserControl1.resources
+C:\Users\User\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csproj.GenerateResource.Cache
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.exe
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.pdb
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.exe
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.pdb
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.baml
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\App.g.cs
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1_MarkupCompile.cache
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.g.resources
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.Properties.Resources.resources
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.UserControl1.resources
+C:\Users\Влад\Dropbox\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csproj.GenerateResource.Cache
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.exe
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.pdb
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.exe
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\bin\Debug\Harmonic_1.pdb
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.baml
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\App.g.cs
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1_MarkupCompile.cache
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.g.resources
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.Properties.Resources.resources
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.UserControl1.resources
+C:\Users\Владислав\Desktop\Harmonic_1\Harmonic_1\obj\x86\Debug\Harmonic_1.csproj.GenerateResource.Cache
